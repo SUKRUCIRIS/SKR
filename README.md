@@ -3,7 +3,7 @@ SKR is an easy to use 2d game/application making framework for windows platform.
 
 SKR consists of three main parts:
 
-1- Rendering/Window management/input part which is built on win32/direct2d.
+1- Rendering/window management/input part which is built on win32/direct2d.
 
 2- A simple 2d physics engine for games.
 
